@@ -3,3 +3,5 @@ C1-C5,CC1206KRX7R9BB104,5,50V 100nF X7R ±10% 0805,,
 "J1,J2",5822030-3 or 5822021-4,2,SIMM Socket,https://www.te.com/es/product-5822030-3.html,https://www.te.com/es/product-5822021-4.html
 "J3,J4",2.54-1*40P21MM,2,2.54-1*40P21MM,https://www.lcsc.com/product-detail/Pin-Headers_BOOMELE-Boom-Precision-Elec-C51353_C51353.html,
 J5,5145154-1,1,Cartridge socket,https://www.te.com/es/product-5145154-1.html,
+U1-U4,SN74LS245DBR,4,Octal Bus Transceivers With 3-State Outputs,https://www.digikey.com.mx/es/products/detail/texas-instruments/SN74LS245DBR/1590463,
+U5,SN74HCT139PWR,1,Dual 2-Line To 4-Line Decoders/Demultiplexers,https://www.digikey.com.mx/es/products/detail/texas-instruments/SN74HCT139PWR/390459?s=N4IgTCBcDaIMoDkDsAWAEgYQCoEYDMAnAAoDqASiALoC%2BQA,
