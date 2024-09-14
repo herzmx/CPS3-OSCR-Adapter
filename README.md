@@ -35,7 +35,7 @@ You can read and write from 32/128Mb and 64Mb SIMMs using Fujitsu MBM29F016A (0x
 
 ### 32/128Mb SIMMs
 
-The SIMM is arranged as 4x8 bits across 4 banks, with each bank handling 4MB and accessing data in 16 bits. The adapter uses an LS139 to access each bank through addresses 21 and 22.
+The SIMM is arranged as 2x8 bits across 4 banks, with each bank handling 4MB and accessing data in 16 bits. The adapter uses an LS139 to access each bank through addresses 21 and 22.
 
 The dump is a complete 4MB/16MB file and matches with the set of files found inside the CD-ROM. For example, SIMM 3 in *Street Fighter III 2nd Impact* corresponds to files 30+31. You can compare or write data by joining these two files.
 
