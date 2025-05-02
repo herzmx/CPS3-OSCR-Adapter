@@ -5590,7 +5590,7 @@
 		(property "Reference" "J2"
 			(at 47.62 0.765 180)
 			(layer "F.SilkS")
-			(uuid "2840888c-6347-4e3d-9ed7-2b249386cf8d")
+			(uuid "5a4d00c4-22d5-4424-8d41-af4a05b67932")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5602,7 +5602,7 @@
 			(at 47.62 0.765 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5e0f5a6e-8d4f-4065-9bc0-e0230599e7ff")
+			(uuid "5340affa-a4bb-4382-8635-ef79d4829d13")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5610,11 +5610,11 @@
 				)
 			)
 		)
-		(property "Footprint" "58220303"
+		(property "Footprint" "5822030-3:58220303"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "208e07f2-c27c-425c-94ef-1e32adb4dfe2")
+			(uuid "c574477e-7bf8-43d7-a1e2-c6040f82c84f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5626,7 +5626,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a0c14f3f-10c0-4d6d-95a1-c687a0722b82")
+			(uuid "d1bffdf8-6b76-4938-9bd3-429c12c8e284")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5638,7 +5638,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8b55e440-0c5d-4e0e-bedb-206e3b9a66f1")
+			(uuid "abb58e5d-78aa-4dc7-a55f-4d00e08f6fcb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5749,7 +5749,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e9592e39-7d84-4a91-8d3d-525e0f5a5680")
+			(uuid "e4c7587d-46b2-45a0-8056-bf206bd53345")
 		)
 		(fp_line
 			(start 105.405 -2.92)
@@ -5759,7 +5759,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4860438d-3c42-4d54-bb2c-af52c9f2b7b1")
+			(uuid "efc0db23-58f8-48b0-bcc3-249ca794160c")
 		)
 		(fp_line
 			(start -10.165 4.45)
@@ -5769,7 +5769,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "96c01754-f188-452b-b9ef-5fe37fe1968b")
+			(uuid "0c897cde-c7b7-4d5e-95b9-0db5ee9b2596")
 		)
 		(fp_line
 			(start -10.165 -2.92)
@@ -5779,7 +5779,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "dcdf0afd-3297-419d-aef2-8a6227f7d011")
+			(uuid "3cdb15d2-8b27-4e9e-8c1f-5b8776b19758")
 		)
 		(fp_line
 			(start 106.405 5.45)
@@ -5789,7 +5789,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c52b9d82-8d64-4e0e-8d8d-cda6f76e1f27")
+			(uuid "741da5f6-ff3d-4173-978d-2ae12ba775b8")
 		)
 		(fp_line
 			(start 106.405 -3.92)
@@ -5799,7 +5799,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f21dffc3-9407-4f70-a08a-48938de8b364")
+			(uuid "c2391814-f815-4516-a463-c9e6e17de01a")
 		)
 		(fp_line
 			(start -11.165 5.45)
@@ -5809,7 +5809,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "27156e7d-457f-4d5c-9f04-ba609742fa5c")
+			(uuid "a97d1e67-e877-4dab-9b91-331882669b85")
 		)
 		(fp_line
 			(start -11.165 -3.92)
@@ -5819,7 +5819,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9fb2467b-e0d8-4967-a834-134c0318f398")
+			(uuid "b4d2ad5d-b52f-4f75-bf44-e47ae0b3ccd5")
 		)
 		(fp_line
 			(start 105.405 4.45)
@@ -5829,7 +5829,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "01cc6069-5b8b-4ef3-a925-fc8cc6e5bbf7")
+			(uuid "cf1821a7-01ed-47a3-8d3d-d81c26eae375")
 		)
 		(fp_line
 			(start 105.405 -2.92)
@@ -5839,7 +5839,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d8578cc9-3fef-4d10-bb75-d9c7f0c4be0d")
+			(uuid "d324dfdb-3ee2-4374-8235-2340b85b7a6f")
 		)
 		(fp_line
 			(start -10.165 4.45)
@@ -5849,7 +5849,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8423d913-8395-416a-bb57-95e6b244672a")
+			(uuid "e94f70c0-b96b-4c9c-9912-c95116ffc6b9")
 		)
 		(fp_line
 			(start -10.165 -2.92)
@@ -5859,12 +5859,12 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "561cc0bb-5920-4125-b3a1-4689c32cef03")
+			(uuid "c95cbac5-bcb5-42f6-ac5c-e37b1114561b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 47.62 0.765 180)
 			(layer "F.Fab")
-			(uuid "a01fd729-045f-4662-8507-ff2017b17f40")
+			(uuid "b2a5c949-1230-4114-a8cf-1506656526be")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5877,21 +5877,21 @@
 			(size 2.06 2.06)
 			(drill 2.06)
 			(layers "*.Cu" "*.Mask")
-			(uuid "8edd0b6d-6672-418c-a16b-0aeec9427c8d")
+			(uuid "6411acbb-bc80-44c3-b396-3a33adcd4c01")
 		)
 		(pad "" np_thru_hole circle
 			(at 47.62 1.27 180)
 			(size 2.47 2.47)
 			(drill 2.47)
 			(layers "*.Cu" "*.Mask")
-			(uuid "7c9fc05e-6a4a-4480-bc7e-3e93e064fc1b")
+			(uuid "66f920d9-2fe4-4268-8f83-21d640c766c3")
 		)
 		(pad "" np_thru_hole circle
 			(at 103.5 1.27 180)
 			(size 2.47 2.47)
 			(drill 2.47)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f892b75c-a359-4c1c-975a-2120f195d233")
+			(uuid "8f7e1919-aa4e-4c1a-9159-45ab11450a15")
 		)
 		(pad "1" thru_hole rect
 			(at 0 0 180)
@@ -5902,7 +5902,7 @@
 			(net 1 "VCC")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c9dd5778-af38-496e-8371-e7032bc2bb9e")
+			(uuid "37f1055d-1384-4405-97ab-58f4de0fc107")
 		)
 		(pad "2" thru_hole circle
 			(at 1.27 2.54 180)
@@ -5913,7 +5913,7 @@
 			(net 1 "VCC")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "14dc1a5b-6fa7-4518-8212-842e9e6497e4")
+			(uuid "f08da427-406d-4f18-82e6-33eb3520798a")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 0 180)
@@ -5924,7 +5924,7 @@
 			(net 88 "/IC4-D7")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "995c7c1b-f960-44ee-a832-a13f6bde6f3b")
+			(uuid "92a52257-1d97-4f45-be07-2ff063b216db")
 		)
 		(pad "4" thru_hole circle
 			(at 3.81 2.54 180)
@@ -5935,7 +5935,7 @@
 			(net 74 "/IC4-D6")
 			(pinfunction "4")
 			(pintype "passive")
-			(uuid "9f2fc126-c1f7-449c-984f-af70a7276ac3")
+			(uuid "149c646e-13f0-43dd-8895-0f303d6735c8")
 		)
 		(pad "5" thru_hole circle
 			(at 5.08 0 180)
@@ -5946,7 +5946,7 @@
 			(net 98 "/IC4-D5")
 			(pinfunction "5")
 			(pintype "passive")
-			(uuid "4cfa39ba-f0ce-44ee-aaa1-70463ffa7521")
+			(uuid "2587ab7e-1ece-4cd6-98a7-8ea246851595")
 		)
 		(pad "6" thru_hole circle
 			(at 6.35 2.54 180)
@@ -5957,7 +5957,7 @@
 			(net 97 "/IC4-D4")
 			(pinfunction "6")
 			(pintype "passive")
-			(uuid "20ecc8e7-059d-4320-b96b-31ed254336e0")
+			(uuid "aa7b4de5-a95e-4548-aaf2-2136a42b9d86")
 		)
 		(pad "7" thru_hole circle
 			(at 7.62 0 180)
@@ -5968,7 +5968,7 @@
 			(net 84 "/IC4-D3")
 			(pinfunction "7")
 			(pintype "passive")
-			(uuid "61e6a11c-23d8-4dc2-a061-d45a2d647aab")
+			(uuid "d182828f-24ca-42f6-b226-95b0998db319")
 		)
 		(pad "8" thru_hole circle
 			(at 8.89 2.54 180)
@@ -5979,7 +5979,7 @@
 			(net 87 "/IC4-D2")
 			(pinfunction "8")
 			(pintype "passive")
-			(uuid "96545e28-3434-4d89-a4ca-49d0ba605722")
+			(uuid "c44b139d-ebb6-4286-9a66-b23341cb9565")
 		)
 		(pad "9" thru_hole circle
 			(at 10.16 0 180)
@@ -5990,7 +5990,7 @@
 			(net 73 "/IC4-D1")
 			(pinfunction "9")
 			(pintype "passive")
-			(uuid "67b0164c-d28f-4a91-a8dd-5387ab8d460d")
+			(uuid "ee942b9f-3312-4b9d-b913-39af4ff45962")
 		)
 		(pad "10" thru_hole circle
 			(at 11.43 2.54 180)
@@ -6001,7 +6001,7 @@
 			(net 79 "/IC4-D0")
 			(pinfunction "10")
 			(pintype "passive")
-			(uuid "98a2a9b6-d127-4e0a-8ad0-cd1f801000fd")
+			(uuid "804d52c6-2d50-4f09-bfe8-7054e6d34738")
 		)
 		(pad "11" thru_hole circle
 			(at 12.7 0 180)
@@ -6012,7 +6012,7 @@
 			(net 6 "GND")
 			(pinfunction "11")
 			(pintype "passive")
-			(uuid "130695af-96b8-424c-a157-53b2fbe6d143")
+			(uuid "e6b009d4-f9c3-4235-9901-ded8d315285c")
 		)
 		(pad "12" thru_hole circle
 			(at 13.97 2.54 180)
@@ -6023,7 +6023,7 @@
 			(net 72 "/IC3-D7")
 			(pinfunction "12")
 			(pintype "passive")
-			(uuid "5615e122-ea86-4e96-aa81-3adeb949fd76")
+			(uuid "eb9fce08-2229-48f9-97b5-0b675b125ff1")
 		)
 		(pad "13" thru_hole circle
 			(at 15.24 0 180)
@@ -6034,7 +6034,7 @@
 			(net 91 "/IC3-D6")
 			(pinfunction "13")
 			(pintype "passive")
-			(uuid "70810ddd-4fb8-472e-8279-b4caf166ca13")
+			(uuid "84992f95-5268-4798-a247-f4cdf56d64a4")
 		)
 		(pad "14" thru_hole circle
 			(at 16.51 2.54 180)
@@ -6045,7 +6045,7 @@
 			(net 96 "/IC3-D5")
 			(pinfunction "14")
 			(pintype "passive")
-			(uuid "80173e0c-dc0f-4dc7-b0a0-df5e2ea63d24")
+			(uuid "8494d7c1-1251-4309-b2cf-b86c8dd4cf79")
 		)
 		(pad "15" thru_hole circle
 			(at 17.78 0 180)
@@ -6056,7 +6056,7 @@
 			(net 76 "/IC3-D4")
 			(pinfunction "15")
 			(pintype "passive")
-			(uuid "8477c89e-2e61-46bf-8ae3-e5c45accc204")
+			(uuid "2c065738-1f5d-41c1-ac6d-fce8186c1b3a")
 		)
 		(pad "16" thru_hole circle
 			(at 19.05 2.54 180)
@@ -6067,7 +6067,7 @@
 			(net 77 "/IC3-D3")
 			(pinfunction "16")
 			(pintype "passive")
-			(uuid "52f21395-7235-420e-aeaa-7c8f2bbe0d3c")
+			(uuid "de8cb478-a8ee-4cdf-90ca-3d08a7fa67af")
 		)
 		(pad "17" thru_hole circle
 			(at 20.32 0 180)
@@ -6078,7 +6078,7 @@
 			(net 81 "/IC3-D2")
 			(pinfunction "17")
 			(pintype "passive")
-			(uuid "ee761d20-60ff-43ed-8523-8e79159cf7ba")
+			(uuid "ef0e04e4-1655-4e1a-b46b-0e7d378472f8")
 		)
 		(pad "18" thru_hole circle
 			(at 21.59 2.54 180)
@@ -6089,7 +6089,7 @@
 			(net 99 "/IC3-D1")
 			(pinfunction "18")
 			(pintype "passive")
-			(uuid "e4624a8f-3eca-47f5-afae-1422dded7684")
+			(uuid "ee142b56-11e9-40e0-b495-879bc2e30ae7")
 		)
 		(pad "19" thru_hole circle
 			(at 22.86 0 180)
@@ -6100,7 +6100,7 @@
 			(net 103 "/IC3-D0")
 			(pinfunction "19")
 			(pintype "passive")
-			(uuid "17d93ef9-0b09-419e-b622-5cffc26c97d4")
+			(uuid "227ff19c-8f48-4e19-910a-10fb756a354d")
 		)
 		(pad "20" thru_hole circle
 			(at 24.13 2.54 180)
@@ -6111,7 +6111,7 @@
 			(net 6 "GND")
 			(pinfunction "20")
 			(pintype "passive")
-			(uuid "0e96d0fe-d72b-440b-a685-5ced8cc7b972")
+			(uuid "27d60090-db27-4b78-912d-b7a14c675014")
 		)
 		(pad "21" thru_hole circle
 			(at 25.4 0 180)
@@ -6122,7 +6122,7 @@
 			(net 95 "/IC2-D7")
 			(pinfunction "21")
 			(pintype "passive")
-			(uuid "f4129fac-ab1f-4b5a-b6b4-f88fed316d18")
+			(uuid "7c164b08-b085-414f-9841-c9990651e379")
 		)
 		(pad "22" thru_hole circle
 			(at 26.67 2.54 180)
@@ -6133,7 +6133,7 @@
 			(net 102 "/IC2-D6")
 			(pinfunction "22")
 			(pintype "passive")
-			(uuid "56226aad-877a-48c5-820a-4ac436640419")
+			(uuid "465606e9-6938-4d77-aa20-a3645d8e0fa7")
 		)
 		(pad "23" thru_hole circle
 			(at 27.94 0 180)
@@ -6144,7 +6144,7 @@
 			(net 89 "/IC2-D5")
 			(pinfunction "23")
 			(pintype "passive")
-			(uuid "5a7b0876-62d0-455e-9c95-c2a5ffe2fbce")
+			(uuid "e94e6043-f73a-460b-98ae-fda2befac4bc")
 		)
 		(pad "24" thru_hole circle
 			(at 29.21 2.54 180)
@@ -6155,7 +6155,7 @@
 			(net 75 "/IC2-D4")
 			(pinfunction "24")
 			(pintype "passive")
-			(uuid "3cf9dfa3-4513-47d4-b82d-b31fc65b2b9d")
+			(uuid "85561557-0c41-4766-a96c-db65e338a1d9")
 		)
 		(pad "25" thru_hole circle
 			(at 30.48 0 180)
@@ -6166,7 +6166,7 @@
 			(net 78 "/IC2-D3")
 			(pinfunction "25")
 			(pintype "passive")
-			(uuid "0a203fd5-3d52-4c0d-8d99-08c6db4f28c6")
+			(uuid "0446ce94-5d9a-4d9a-bcb4-6f3023ea43bc")
 		)
 		(pad "26" thru_hole circle
 			(at 31.75 2.54 180)
@@ -6177,7 +6177,7 @@
 			(net 85 "/IC2-D2")
 			(pinfunction "26")
 			(pintype "passive")
-			(uuid "dde96b37-8381-4c4a-8c9e-a48f8a6074b3")
+			(uuid "f2bd513c-50f7-4be0-abf8-f959984fa9c1")
 		)
 		(pad "27" thru_hole circle
 			(at 33.02 0 180)
@@ -6188,7 +6188,7 @@
 			(net 93 "/IC2-D1")
 			(pinfunction "27")
 			(pintype "passive")
-			(uuid "706d0415-a39c-49e3-bd0b-1d9f0dc642ae")
+			(uuid "4dc13d00-cf74-47f4-b65c-d9aa04bc577e")
 		)
 		(pad "28" thru_hole circle
 			(at 34.29 2.54 180)
@@ -6199,7 +6199,7 @@
 			(net 80 "/IC2-D0")
 			(pinfunction "28")
 			(pintype "passive")
-			(uuid "63cc6519-090e-4e8a-91d7-d4c6ead1eaa7")
+			(uuid "f7180bc9-bc9a-4bfa-b323-7cf02bf2ee13")
 		)
 		(pad "29" thru_hole circle
 			(at 35.56 0 180)
@@ -6210,7 +6210,7 @@
 			(net 6 "GND")
 			(pinfunction "29")
 			(pintype "passive")
-			(uuid "6a54d39b-4cb1-4aee-96ba-b95d8edcaa4a")
+			(uuid "64aaaa46-d02e-4976-99fe-9a630258213f")
 		)
 		(pad "30" thru_hole circle
 			(at 36.83 2.54 180)
@@ -6221,7 +6221,7 @@
 			(net 94 "/IC1-D7")
 			(pinfunction "30")
 			(pintype "passive")
-			(uuid "16a45c6a-51c0-4e77-8d5d-f0d219a19fe7")
+			(uuid "31435c1c-a701-4893-9e2b-340c246088f9")
 		)
 		(pad "31" thru_hole circle
 			(at 38.1 0 180)
@@ -6232,7 +6232,7 @@
 			(net 90 "/IC1-D6")
 			(pinfunction "31")
 			(pintype "passive")
-			(uuid "8f726869-e92a-460a-be61-14224120207c")
+			(uuid "60003505-166b-4045-b5c9-62f854ef29c4")
 		)
 		(pad "32" thru_hole circle
 			(at 39.37 2.54 180)
@@ -6243,7 +6243,7 @@
 			(net 101 "/IC1-D5")
 			(pinfunction "32")
 			(pintype "passive")
-			(uuid "2775abdd-b1c5-495b-8c04-bf365ad511c1")
+			(uuid "2d831900-5c64-4cbf-8fe9-e84ab819b27b")
 		)
 		(pad "33" thru_hole circle
 			(at 40.64 0 180)
@@ -6254,7 +6254,7 @@
 			(net 83 "/IC1-D4")
 			(pinfunction "33")
 			(pintype "passive")
-			(uuid "e8acb27a-ff17-48aa-87dc-f069854a0ce6")
+			(uuid "082dcf9a-24d3-46b9-8677-dd9e995721c6")
 		)
 		(pad "34" thru_hole circle
 			(at 41.91 2.54 180)
@@ -6265,7 +6265,7 @@
 			(net 92 "/IC1-D3")
 			(pinfunction "34")
 			(pintype "passive")
-			(uuid "add300b3-d60a-47a9-b1e8-43a51b4a3969")
+			(uuid "93058b2e-ad05-49cf-9798-73ff73555215")
 		)
 		(pad "35" thru_hole circle
 			(at 43.18 0 180)
@@ -6276,7 +6276,7 @@
 			(net 86 "/IC1-D2")
 			(pinfunction "35")
 			(pintype "passive")
-			(uuid "b9eea9ec-336b-4a7e-bf82-91fdcd35bb43")
+			(uuid "b848a56c-a84f-483f-ad89-d29229459fc0")
 		)
 		(pad "36" thru_hole circle
 			(at 44.45 2.54 180)
@@ -6287,7 +6287,7 @@
 			(net 100 "/IC1-D1")
 			(pinfunction "36")
 			(pintype "passive")
-			(uuid "2ed9e86a-7f20-4037-bb0a-34a8cadd6fc8")
+			(uuid "fc54b279-1d13-41dc-92b2-2ebdb1bfff71")
 		)
 		(pad "37" thru_hole circle
 			(at 50.8 0 180)
@@ -6298,7 +6298,7 @@
 			(net 82 "/IC1-D0")
 			(pinfunction "37")
 			(pintype "passive")
-			(uuid "b8b91e03-4bcd-40d6-a7c7-7d8a388642e0")
+			(uuid "fe86dfda-454f-40ec-abe5-0f4ee1850327")
 		)
 		(pad "38" thru_hole circle
 			(at 52.07 2.54 180)
@@ -6309,7 +6309,7 @@
 			(net 26 "unconnected-(J2-Pad38)")
 			(pinfunction "38")
 			(pintype "passive+no_connect")
-			(uuid "20e58396-5f10-4ab2-9bd2-664f1b8830f2")
+			(uuid "3ab64781-72e3-4045-baca-1dacfbadcf53")
 		)
 		(pad "39" thru_hole circle
 			(at 53.34 0 180)
@@ -6320,7 +6320,7 @@
 			(net 32 "A20")
 			(pinfunction "39")
 			(pintype "passive")
-			(uuid "c3d0f044-a11f-4006-b20e-e18f95137c22")
+			(uuid "9343eec6-dc59-4d52-b48b-2a6f0db04460")
 		)
 		(pad "40" thru_hole circle
 			(at 54.61 2.54 180)
@@ -6331,7 +6331,7 @@
 			(net 27 "A19")
 			(pinfunction "40")
 			(pintype "passive")
-			(uuid "c2fa604e-d9ce-456f-9b3f-877056c2ae4b")
+			(uuid "4bc1773d-252d-4c9f-a0fb-9b027f60766a")
 		)
 		(pad "41" thru_hole circle
 			(at 55.88 0 180)
@@ -6342,7 +6342,7 @@
 			(net 29 "A18")
 			(pinfunction "41")
 			(pintype "passive")
-			(uuid "1696795e-22b9-4540-9ebf-e2c0dc93c1e9")
+			(uuid "fb868ed1-3551-4c9b-b21c-f62073ca02e9")
 		)
 		(pad "42" thru_hole circle
 			(at 57.15 2.54 180)
@@ -6353,7 +6353,7 @@
 			(net 36 "A17")
 			(pinfunction "42")
 			(pintype "passive")
-			(uuid "dec0fce7-5da4-4e4e-b139-402ecb437fe3")
+			(uuid "eab25001-8acd-44d7-911a-9602d954cb6d")
 		)
 		(pad "43" thru_hole circle
 			(at 58.42 0 180)
@@ -6364,7 +6364,7 @@
 			(net 42 "A16")
 			(pinfunction "43")
 			(pintype "passive")
-			(uuid "96f16301-c1f9-4d0b-a19d-e439be51e44e")
+			(uuid "e0ebe6f9-97aa-4196-81d9-d4a89d46bfe5")
 		)
 		(pad "44" thru_hole circle
 			(at 59.69 2.54 180)
@@ -6375,7 +6375,7 @@
 			(net 40 "A15")
 			(pinfunction "44")
 			(pintype "passive")
-			(uuid "efa10268-2e5f-42d8-8ca3-521ac3fc647b")
+			(uuid "4e1142a4-21be-4d00-8a30-97d5e76ad499")
 		)
 		(pad "45" thru_hole circle
 			(at 60.96 0 180)
@@ -6386,7 +6386,7 @@
 			(net 47 "A14")
 			(pinfunction "45")
 			(pintype "passive")
-			(uuid "a5593c33-485a-42a4-8275-be11928844c5")
+			(uuid "6e8d5220-9adc-4dfd-bb64-3244dbacb08c")
 		)
 		(pad "46" thru_hole circle
 			(at 62.23 2.54 180)
@@ -6397,7 +6397,7 @@
 			(net 28 "A13")
 			(pinfunction "46")
 			(pintype "passive")
-			(uuid "757733a9-f58e-4021-93ab-6b5982bdd8c5")
+			(uuid "f3fc40b1-00f0-4c44-8288-4c606038c9c7")
 		)
 		(pad "47" thru_hole circle
 			(at 63.5 0 180)
@@ -6408,7 +6408,7 @@
 			(net 37 "A12")
 			(pinfunction "47")
 			(pintype "passive")
-			(uuid "1627f7f8-1305-4275-ae87-c7fccafbd34a")
+			(uuid "e5685c29-67f8-4f40-bff5-2bcdbd744376")
 		)
 		(pad "48" thru_hole circle
 			(at 64.77 2.54 180)
@@ -6419,7 +6419,7 @@
 			(net 34 "A11")
 			(pinfunction "48")
 			(pintype "passive")
-			(uuid "3eccf3b0-f05f-406b-b35a-1f91ad7fb95c")
+			(uuid "c1702472-4ab0-4c61-a44b-5a6b5ce9ede1")
 		)
 		(pad "49" thru_hole circle
 			(at 66.04 0 180)
@@ -6430,7 +6430,7 @@
 			(net 6 "GND")
 			(pinfunction "49")
 			(pintype "passive")
-			(uuid "93a16f89-c7ee-4853-921d-84bbaf3c21e8")
+			(uuid "42daa780-3568-480d-8c66-b67f549718b6")
 		)
 		(pad "50" thru_hole circle
 			(at 67.31 2.54 180)
@@ -6441,7 +6441,7 @@
 			(net 31 "A10")
 			(pinfunction "50")
 			(pintype "passive")
-			(uuid "b9f923fe-d545-48ef-9dcf-f3dc375e5e6f")
+			(uuid "9dad24f6-441d-48dc-8d83-94697a1591e0")
 		)
 		(pad "51" thru_hole circle
 			(at 68.58 0 180)
@@ -6452,7 +6452,7 @@
 			(net 44 "A9")
 			(pinfunction "51")
 			(pintype "passive")
-			(uuid "79e76073-f355-450c-a31a-5da24b008707")
+			(uuid "64d236f2-a9cd-44a2-bff4-70b59eebcfd3")
 		)
 		(pad "52" thru_hole circle
 			(at 69.85 2.54 180)
@@ -6463,7 +6463,7 @@
 			(net 43 "A8")
 			(pinfunction "52")
 			(pintype "passive")
-			(uuid "8e36a3e9-86b6-4662-834a-bf59701ee0ba")
+			(uuid "154921ef-9e0f-4939-ad4c-dcc9f8e69e0c")
 		)
 		(pad "53" thru_hole circle
 			(at 71.12 0 180)
@@ -6474,7 +6474,7 @@
 			(net 38 "A7")
 			(pinfunction "53")
 			(pintype "passive")
-			(uuid "adcffe3b-9e08-423e-b919-80ce3588d3f1")
+			(uuid "ed1c7007-21b2-4ac7-8ea2-b6b9b00dae09")
 		)
 		(pad "54" thru_hole circle
 			(at 72.39 2.54 180)
@@ -6485,7 +6485,7 @@
 			(net 30 "A6")
 			(pinfunction "54")
 			(pintype "passive")
-			(uuid "a553a1b0-b024-4e65-84c2-350027b2bfc6")
+			(uuid "55299799-b2c6-4e29-b145-50cdc0655b30")
 		)
 		(pad "55" thru_hole circle
 			(at 73.66 0 180)
@@ -6496,7 +6496,7 @@
 			(net 39 "A5")
 			(pinfunction "55")
 			(pintype "passive")
-			(uuid "36327c54-a599-4322-9a51-b515e74f011a")
+			(uuid "553465d5-142a-4792-a297-6da362fb01bf")
 		)
 		(pad "56" thru_hole circle
 			(at 74.93 2.54 180)
@@ -6507,7 +6507,7 @@
 			(net 48 "A4")
 			(pinfunction "56")
 			(pintype "passive")
-			(uuid "9e6b4f6e-461c-4130-92c0-aa64ff77c192")
+			(uuid "4535c42c-ff12-4cdc-a297-e317a8b12961")
 		)
 		(pad "57" thru_hole circle
 			(at 76.2 0 180)
@@ -6518,7 +6518,7 @@
 			(net 33 "A3")
 			(pinfunction "57")
 			(pintype "passive")
-			(uuid "ffc9ff7a-486e-4205-9752-4ade12bdc72d")
+			(uuid "c2148d01-02af-4e29-ad41-3f4e66df8893")
 		)
 		(pad "58" thru_hole circle
 			(at 77.47 2.54 180)
@@ -6529,7 +6529,7 @@
 			(net 45 "A2")
 			(pinfunction "58")
 			(pintype "passive")
-			(uuid "d7bc69d4-02f0-49bd-bc9c-31bd7c533f4d")
+			(uuid "46bf94e8-51f5-42f3-bbef-7d84df76b76c")
 		)
 		(pad "59" thru_hole circle
 			(at 78.74 0 180)
@@ -6540,7 +6540,7 @@
 			(net 35 "A1")
 			(pinfunction "59")
 			(pintype "passive")
-			(uuid "501d3166-d7d0-445f-8102-4016b31a08ec")
+			(uuid "6570afe6-d505-43e0-aaf3-423193cb40e7")
 		)
 		(pad "60" thru_hole circle
 			(at 80.01 2.54 180)
@@ -6551,7 +6551,7 @@
 			(net 49 "A0")
 			(pinfunction "60")
 			(pintype "passive")
-			(uuid "d83161a2-fb9b-44d8-90bc-fa1481f40cff")
+			(uuid "8200d4f6-8171-4240-85c0-d4e2178d9aae")
 		)
 		(pad "61" thru_hole circle
 			(at 81.28 0 180)
@@ -6562,7 +6562,7 @@
 			(net 6 "GND")
 			(pinfunction "61")
 			(pintype "passive")
-			(uuid "e3feed59-8895-469a-a6fb-7340a5aeddef")
+			(uuid "88ca3a05-153b-4552-b01a-0543864d5220")
 		)
 		(pad "62" thru_hole circle
 			(at 82.55 2.54 180)
@@ -6573,7 +6573,7 @@
 			(net 148 "RST")
 			(pinfunction "62")
 			(pintype "passive")
-			(uuid "e04cb5b0-00a3-4bea-bf35-9e0d79afd994")
+			(uuid "5d06ac7c-25ae-4d60-94d6-2fbd8d412a1e")
 		)
 		(pad "63" thru_hole circle
 			(at 83.82 0 180)
@@ -6584,7 +6584,7 @@
 			(net 6 "GND")
 			(pinfunction "63")
 			(pintype "passive")
-			(uuid "a3a5014a-2e4b-4080-b6bd-7d3fde2338f2")
+			(uuid "9743c6db-9e0e-452a-9d3b-e445f2caca0e")
 		)
 		(pad "64" thru_hole circle
 			(at 85.09 2.54 180)
@@ -6595,7 +6595,7 @@
 			(net 22 "unconnected-(J2-Pad64)")
 			(pinfunction "64")
 			(pintype "passive+no_connect")
-			(uuid "492138ea-6651-4eb1-b24a-1916d3b20dab")
+			(uuid "6cb0a9fe-5c32-4696-bea8-f3b896bc72f3")
 		)
 		(pad "65" thru_hole circle
 			(at 86.36 0 180)
@@ -6606,7 +6606,7 @@
 			(net 25 "unconnected-(J2-Pad65)")
 			(pinfunction "65")
 			(pintype "passive+no_connect")
-			(uuid "7502e2d7-731c-4e75-813d-48698874d0b7")
+			(uuid "0387cb87-a06f-4cbe-867e-424b44e6c741")
 		)
 		(pad "66" thru_hole circle
 			(at 87.63 2.54 180)
@@ -6617,7 +6617,7 @@
 			(net 24 "unconnected-(J2-Pad66)")
 			(pinfunction "66")
 			(pintype "passive+no_connect")
-			(uuid "cd8443f4-d837-4812-ad7c-a97b96bd84a2")
+			(uuid "919404f6-c639-48aa-85a0-05d3afba1864")
 		)
 		(pad "67" thru_hole circle
 			(at 88.9 0 180)
@@ -6628,7 +6628,7 @@
 			(net 6 "GND")
 			(pinfunction "67")
 			(pintype "passive")
-			(uuid "ec4b4120-ce08-4d28-b6c4-4b1d45636e31")
+			(uuid "54738975-dbd1-4d84-a634-950f6b658631")
 		)
 		(pad "68" thru_hole circle
 			(at 90.17 2.54 180)
@@ -6639,7 +6639,7 @@
 			(net 6 "GND")
 			(pinfunction "68")
 			(pintype "passive")
-			(uuid "246184f4-9d6f-4b29-8874-bf68c12ebc07")
+			(uuid "4bc44eaa-b38c-4166-b471-02feca2d9f7f")
 		)
 		(pad "69" thru_hole circle
 			(at 91.44 0 180)
@@ -6650,7 +6650,7 @@
 			(net 46 "WE")
 			(pinfunction "69")
 			(pintype "passive")
-			(uuid "5c2c6f7a-f023-44d5-9109-8008c7368af3")
+			(uuid "ce047368-de8c-474e-b4b0-b00a06869306")
 		)
 		(pad "70" thru_hole circle
 			(at 92.71 2.54 180)
@@ -6661,7 +6661,7 @@
 			(net 46 "WE")
 			(pinfunction "70")
 			(pintype "passive")
-			(uuid "b0a01f6a-36f5-46f8-9976-5596e9c26fec")
+			(uuid "d2362f89-8473-42c1-bd87-2fb94f5febea")
 		)
 		(pad "71" thru_hole circle
 			(at 93.98 0 180)
@@ -6672,7 +6672,7 @@
 			(net 41 "OE")
 			(pinfunction "71")
 			(pintype "passive")
-			(uuid "123f1252-1cfe-4537-b047-9d9ffe2be9ec")
+			(uuid "88dff738-91c5-4b27-b6bd-bbdcc02d4ff8")
 		)
 		(pad "72" thru_hole circle
 			(at 95.25 2.54 180)
@@ -6683,17 +6683,17 @@
 			(net 23 "unconnected-(J2-Pad72)")
 			(pinfunction "72")
 			(pintype "passive+no_connect")
-			(uuid "c458a8e5-ac29-4ce0-beed-728babd50108")
+			(uuid "5cf3c276-0db8-429f-ae1e-7dd2eea46dfa")
 		)
 		(model "${KIPRJMOD}/../5822030-3/3D/5822030-3.stp"
 			(offset
-				(xyz 47.61999822 -0.6799999969 4.849999832)
+				(xyz 47.619998 -0.68 4.85)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -90 0 180)
 			)
 		)
 	)
@@ -7954,7 +7954,7 @@
 		(property "Reference" "J1"
 			(at 47.62 0.765 180)
 			(layer "F.SilkS")
-			(uuid "286e1c8d-7651-4c94-af91-f9534196fd8b")
+			(uuid "6be274bd-7b0e-4c6a-82de-0ac119ce40db")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7966,7 +7966,7 @@
 			(at 47.62 0.765 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "e6fd2ea4-cc19-4e5b-af74-02514066a5dd")
+			(uuid "422043f9-6e10-4b8a-970f-698eaa0cf218")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7974,11 +7974,11 @@
 				)
 			)
 		)
-		(property "Footprint" "58220303"
+		(property "Footprint" "5822030-3:58220303"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a82fe29c-8c9c-4b49-85ff-b8f76086cc9c")
+			(uuid "47412816-c72b-44f7-8d9e-81db5c86acb6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7990,7 +7990,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2b55faa1-0834-481f-b116-96b414836594")
+			(uuid "20ce5d82-579c-4683-bb59-a0073f7532fe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8002,7 +8002,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f07769e8-a9ff-4f76-8b62-54a3f55da558")
+			(uuid "463be11b-aa22-47c8-9090-cecebf0344fa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8113,7 +8113,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f9412fc5-f6b8-4b6f-b4ad-5d148657cd93")
+			(uuid "0c173fbb-0d63-4157-abfe-e17cca12b84f")
 		)
 		(fp_line
 			(start 105.405 -2.92)
@@ -8123,7 +8123,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c62d7378-a246-4514-8645-66152e2f8550")
+			(uuid "9c49a134-c57a-4ecd-8481-ca618b7514f8")
 		)
 		(fp_line
 			(start -10.165 4.45)
@@ -8133,7 +8133,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bc994a75-84bb-469c-9ecc-62105205f3bf")
+			(uuid "c0cb1ee8-6c84-43a9-a4c8-8bd35f1faefa")
 		)
 		(fp_line
 			(start -10.165 -2.92)
@@ -8143,7 +8143,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "315dcba5-88bc-4818-88f1-e956ac8be057")
+			(uuid "fbde3e3b-bf45-4fd5-b66e-1125982da777")
 		)
 		(fp_line
 			(start 106.405 5.45)
@@ -8153,7 +8153,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3a96546c-e498-4539-a67e-6defcdb090ce")
+			(uuid "c060ce1b-85f0-4028-a367-062708bd20d2")
 		)
 		(fp_line
 			(start 106.405 -3.92)
@@ -8163,7 +8163,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c4d6d4a7-a3c4-477b-8f8b-22728aca813d")
+			(uuid "67960b6c-b28d-42c6-83bd-830066879a3a")
 		)
 		(fp_line
 			(start -11.165 5.45)
@@ -8173,7 +8173,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "aa0e2c22-406d-420c-a692-f390b455a3d8")
+			(uuid "8d63cb15-31b1-4d97-a193-a1fd3e77a660")
 		)
 		(fp_line
 			(start -11.165 -3.92)
@@ -8183,7 +8183,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d5b0ba59-865b-4a56-854d-6cc4d7455759")
+			(uuid "83cc6ff5-9435-47b6-a878-d72c89289ca8")
 		)
 		(fp_line
 			(start 105.405 4.45)
@@ -8193,7 +8193,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4d12ce6f-6630-4ba4-bfca-990d50bf77d5")
+			(uuid "1d6b3ff6-7bc7-49ed-a21e-8e3d0017cfe6")
 		)
 		(fp_line
 			(start 105.405 -2.92)
@@ -8203,7 +8203,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4deb7db5-e9bb-41a8-9b1e-a199ced4cbec")
+			(uuid "43bfd85b-ee5f-4c49-83e4-77a5c1948341")
 		)
 		(fp_line
 			(start -10.165 4.45)
@@ -8213,7 +8213,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7e70ba76-18d7-4b6d-9035-5d0171f281ac")
+			(uuid "2303fa75-539d-4c3c-8bf5-9fdff40b4745")
 		)
 		(fp_line
 			(start -10.165 -2.92)
@@ -8223,12 +8223,12 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "56ea3df1-765b-4811-b12f-ce3d2118a385")
+			(uuid "2465fec9-281a-4bc1-b935-e16f49574d50")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 47.62 0.765 180)
 			(layer "F.Fab")
-			(uuid "9261ec85-466e-4d1c-9815-f238e9631738")
+			(uuid "2d454495-b9ef-491f-b18b-88e2137dc5ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8241,21 +8241,21 @@
 			(size 2.06 2.06)
 			(drill 2.06)
 			(layers "*.Cu" "*.Mask")
-			(uuid "9b63c6b0-4303-42dd-be61-cedf44421ab9")
+			(uuid "b17e143f-752d-42ea-bdf9-81658670f869")
 		)
 		(pad "" np_thru_hole circle
 			(at 47.62 1.27 180)
 			(size 2.47 2.47)
 			(drill 2.47)
 			(layers "*.Cu" "*.Mask")
-			(uuid "ed65ad37-6019-435c-9182-a2ebb0717bd2")
+			(uuid "e603c436-96d1-4801-93a5-9339e9a3949f")
 		)
 		(pad "" np_thru_hole circle
 			(at 103.5 1.27 180)
 			(size 2.47 2.47)
 			(drill 2.47)
 			(layers "*.Cu" "*.Mask")
-			(uuid "99421c89-dfe3-486c-bf7d-3b0d8d2e09ec")
+			(uuid "d14206e8-ec70-42a0-89b7-4aed4e981c7c")
 		)
 		(pad "1" thru_hole rect
 			(at 0 0 180)
@@ -8266,7 +8266,7 @@
 			(net 1 "VCC")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "9da722b5-3983-43d8-b60a-0b88e0889c04")
+			(uuid "8b899759-e26e-44c2-aa24-30d7e8b1cecd")
 		)
 		(pad "2" thru_hole circle
 			(at 1.27 2.54 180)
@@ -8277,7 +8277,7 @@
 			(net 1 "VCC")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "d3d1ca03-e806-48a3-bb2d-76b10b72b5e0")
+			(uuid "d48c4504-bbeb-407d-9aa2-9637fa167c47")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 0 180)
@@ -8288,7 +8288,7 @@
 			(net 50 "DQ7")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "91f447d0-662a-4106-ab11-549c7b39d3c3")
+			(uuid "fa73f5cb-b92e-4791-8622-0972ca342243")
 		)
 		(pad "4" thru_hole circle
 			(at 3.81 2.54 180)
@@ -8299,7 +8299,7 @@
 			(net 2 "unconnected-(J1-Pad4)")
 			(pinfunction "4")
 			(pintype "passive+no_connect")
-			(uuid "d1d769af-1339-4dfc-95ac-c5ef718685b3")
+			(uuid "f3d5534f-f9d7-400a-8d4e-d40921701669")
 		)
 		(pad "5" thru_hole circle
 			(at 5.08 0 180)
@@ -8310,7 +8310,7 @@
 			(net 57 "DQ6")
 			(pinfunction "5")
 			(pintype "passive")
-			(uuid "fb7c6a9e-97c3-40a9-8b94-6c26da28dd83")
+			(uuid "be932b96-1b78-4980-9944-b81075a13382")
 		)
 		(pad "6" thru_hole circle
 			(at 6.35 2.54 180)
@@ -8321,7 +8321,7 @@
 			(net 3 "unconnected-(J1-Pad6)")
 			(pinfunction "6")
 			(pintype "passive+no_connect")
-			(uuid "4e69c461-38ef-4f7e-9374-c965ff58b65a")
+			(uuid "1a0b23dd-b134-45c4-9169-00ffa46d45ac")
 		)
 		(pad "7" thru_hole circle
 			(at 7.62 0 180)
@@ -8332,7 +8332,7 @@
 			(net 56 "DQ5")
 			(pinfunction "7")
 			(pintype "passive")
-			(uuid "c382f083-c699-449f-9e7e-676eda744d09")
+			(uuid "f6bfea24-dc14-4d6f-8f5b-a3128e506c84")
 		)
 		(pad "8" thru_hole circle
 			(at 8.89 2.54 180)
@@ -8343,7 +8343,7 @@
 			(net 4 "unconnected-(J1-Pad8)")
 			(pinfunction "8")
 			(pintype "passive+no_connect")
-			(uuid "f4d951e8-7ed4-4a5c-bb9a-f85ebb9c8d46")
+			(uuid "c02635cc-2c9b-47ba-af92-e961717c2c62")
 		)
 		(pad "9" thru_hole circle
 			(at 10.16 0 180)
@@ -8354,7 +8354,7 @@
 			(net 54 "DQ4")
 			(pinfunction "9")
 			(pintype "passive")
-			(uuid "671bffed-f874-4bea-a606-a73a9213703f")
+			(uuid "c13bceb9-76d7-4c5e-bcad-2a2d105a0bc8")
 		)
 		(pad "10" thru_hole circle
 			(at 11.43 2.54 180)
@@ -8365,7 +8365,7 @@
 			(net 5 "unconnected-(J1-Pad10)")
 			(pinfunction "10")
 			(pintype "passive+no_connect")
-			(uuid "ff1a3d0b-fe2d-4fc8-9a93-7ba14e269456")
+			(uuid "a7ca51d5-25c4-4f3b-936d-7823b0b4c85b")
 		)
 		(pad "11" thru_hole circle
 			(at 12.7 0 180)
@@ -8376,7 +8376,7 @@
 			(net 6 "GND")
 			(pinfunction "11")
 			(pintype "passive")
-			(uuid "840f5b1d-fc22-4467-89cb-cc2c2565f77c")
+			(uuid "8ae6752f-34d9-4925-a7b8-8e7bd1e99548")
 		)
 		(pad "12" thru_hole circle
 			(at 13.97 2.54 180)
@@ -8387,7 +8387,7 @@
 			(net 52 "DQ3")
 			(pinfunction "12")
 			(pintype "passive")
-			(uuid "a98cc4f7-79f8-4bba-8333-fc7a039ba88d")
+			(uuid "7a04b7ad-66cc-4fec-adb9-829357f6e118")
 		)
 		(pad "13" thru_hole circle
 			(at 15.24 0 180)
@@ -8398,7 +8398,7 @@
 			(net 7 "unconnected-(J1-Pad13)")
 			(pinfunction "13")
 			(pintype "passive+no_connect")
-			(uuid "d407a526-5fda-4b14-85ee-f4dcad32a5c9")
+			(uuid "3af38fa4-ea2e-4d38-86e8-63a545917d98")
 		)
 		(pad "14" thru_hole circle
 			(at 16.51 2.54 180)
@@ -8409,7 +8409,7 @@
 			(net 55 "DQ2")
 			(pinfunction "14")
 			(pintype "passive")
-			(uuid "bc1f0107-77d4-46a4-8809-c0db61f34a69")
+			(uuid "0a419f21-8f45-4c13-a816-316be2ed1a75")
 		)
 		(pad "15" thru_hole circle
 			(at 17.78 0 180)
@@ -8420,7 +8420,7 @@
 			(net 8 "unconnected-(J1-Pad15)")
 			(pinfunction "15")
 			(pintype "passive+no_connect")
-			(uuid "532c1716-cfc7-4e8a-a77c-35fc70e998eb")
+			(uuid "3eeca20f-0e3a-4902-bdb2-af50458ccde0")
 		)
 		(pad "16" thru_hole circle
 			(at 19.05 2.54 180)
@@ -8431,7 +8431,7 @@
 			(net 53 "DQ1")
 			(pinfunction "16")
 			(pintype "passive")
-			(uuid "c82f9009-ffdf-4bbc-82da-01ec72c38c95")
+			(uuid "2412e279-7953-465f-a1f6-3e81237c2765")
 		)
 		(pad "17" thru_hole circle
 			(at 20.32 0 180)
@@ -8442,7 +8442,7 @@
 			(net 9 "unconnected-(J1-Pad17)")
 			(pinfunction "17")
 			(pintype "passive+no_connect")
-			(uuid "29fc0cc6-4aa5-441d-9169-3912cf06a2b2")
+			(uuid "8c931347-4fdb-47e7-be8b-fd627359b019")
 		)
 		(pad "18" thru_hole circle
 			(at 21.59 2.54 180)
@@ -8453,7 +8453,7 @@
 			(net 51 "DQ0")
 			(pinfunction "18")
 			(pintype "passive")
-			(uuid "218f64eb-1d5c-4573-8968-cdf7ff0e16bf")
+			(uuid "addb64d7-ce2c-45d2-b66c-2e3c1d62071e")
 		)
 		(pad "19" thru_hole circle
 			(at 22.86 0 180)
@@ -8464,7 +8464,7 @@
 			(net 10 "unconnected-(J1-Pad19)")
 			(pinfunction "19")
 			(pintype "passive+no_connect")
-			(uuid "cea4555a-1a15-4bd1-956d-98fd1a16c90c")
+			(uuid "d1715053-523f-4ae5-bd42-1e5f0ddac635")
 		)
 		(pad "20" thru_hole circle
 			(at 24.13 2.54 180)
@@ -8475,7 +8475,7 @@
 			(net 6 "GND")
 			(pinfunction "20")
 			(pintype "passive")
-			(uuid "95318471-f9dd-4ab8-b14d-19a71f36568a")
+			(uuid "9e85e47e-15d9-4d6d-b182-dd34315ea8cd")
 		)
 		(pad "21" thru_hole circle
 			(at 25.4 0 180)
@@ -8486,7 +8486,7 @@
 			(net 61 "DQ15")
 			(pinfunction "21")
 			(pintype "passive")
-			(uuid "e10a1699-1f99-409b-98e2-177105625733")
+			(uuid "2ed8d88f-29ca-4566-8b43-b5dcb9e3f1d8")
 		)
 		(pad "22" thru_hole circle
 			(at 26.67 2.54 180)
@@ -8497,7 +8497,7 @@
 			(net 11 "unconnected-(J1-Pad22)")
 			(pinfunction "22")
 			(pintype "passive+no_connect")
-			(uuid "7e1b5e13-0905-4a25-b3bc-d9173c64a5c1")
+			(uuid "c29ad60f-b66a-4692-b262-998cc971a789")
 		)
 		(pad "23" thru_hole circle
 			(at 27.94 0 180)
@@ -8508,7 +8508,7 @@
 			(net 60 "DQ14")
 			(pinfunction "23")
 			(pintype "passive")
-			(uuid "70595242-97db-4a50-a791-9ac71b119d11")
+			(uuid "11c0ca5b-7765-490e-b1dc-2ecf469f95e3")
 		)
 		(pad "24" thru_hole circle
 			(at 29.21 2.54 180)
@@ -8519,7 +8519,7 @@
 			(net 12 "unconnected-(J1-Pad24)")
 			(pinfunction "24")
 			(pintype "passive+no_connect")
-			(uuid "7240c977-6107-4813-ae0f-e250fe10d08c")
+			(uuid "7d8d7344-84a4-4c89-a5d6-8d1e5114c6a9")
 		)
 		(pad "25" thru_hole circle
 			(at 30.48 0 180)
@@ -8530,7 +8530,7 @@
 			(net 64 "DQ13")
 			(pinfunction "25")
 			(pintype "passive")
-			(uuid "9e262ace-07fd-4ffe-8445-dba3e7808183")
+			(uuid "f9549147-8574-45d4-9943-1e180c6b1de4")
 		)
 		(pad "26" thru_hole circle
 			(at 31.75 2.54 180)
@@ -8541,7 +8541,7 @@
 			(net 13 "unconnected-(J1-Pad26)")
 			(pinfunction "26")
 			(pintype "passive+no_connect")
-			(uuid "e8ae08c9-01fc-4e7c-b6c3-847a917484ae")
+			(uuid "376d7fb1-b9a0-4b9c-8390-57a42e674882")
 		)
 		(pad "27" thru_hole circle
 			(at 33.02 0 180)
@@ -8552,7 +8552,7 @@
 			(net 68 "DQ12")
 			(pinfunction "27")
 			(pintype "passive")
-			(uuid "7b547e06-f4f9-4613-8217-5bf819516c3d")
+			(uuid "1a3258b9-2178-4433-a856-a0b133deed13")
 		)
 		(pad "28" thru_hole circle
 			(at 34.29 2.54 180)
@@ -8563,7 +8563,7 @@
 			(net 14 "unconnected-(J1-Pad28)")
 			(pinfunction "28")
 			(pintype "passive+no_connect")
-			(uuid "42c2723c-80de-4a6f-ab20-964c069437f6")
+			(uuid "a266af83-10ab-438d-a39b-7071b85a9221")
 		)
 		(pad "29" thru_hole circle
 			(at 35.56 0 180)
@@ -8574,7 +8574,7 @@
 			(net 6 "GND")
 			(pinfunction "29")
 			(pintype "passive")
-			(uuid "bec8ed23-4b9d-4d90-b15e-cb800deefa12")
+			(uuid "06c16bcf-f6dd-4269-8261-47a35621ceef")
 		)
 		(pad "30" thru_hole circle
 			(at 36.83 2.54 180)
@@ -8585,7 +8585,7 @@
 			(net 63 "DQ11")
 			(pinfunction "30")
 			(pintype "passive")
-			(uuid "73f9f6ff-716c-40c0-a038-f0407faa9378")
+			(uuid "9414f798-50bb-4952-8849-92633b1b69f6")
 		)
 		(pad "31" thru_hole circle
 			(at 38.1 0 180)
@@ -8596,7 +8596,7 @@
 			(net 15 "unconnected-(J1-Pad31)")
 			(pinfunction "31")
 			(pintype "passive+no_connect")
-			(uuid "8c41b76c-39f1-420b-9994-641ff7d1c308")
+			(uuid "073db1e7-0c9a-457c-b7bd-37d5ba868edf")
 		)
 		(pad "32" thru_hole circle
 			(at 39.37 2.54 180)
@@ -8607,7 +8607,7 @@
 			(net 58 "DQ10")
 			(pinfunction "32")
 			(pintype "passive")
-			(uuid "82a4f04b-0d2f-4b02-84b4-3f6306320371")
+			(uuid "112ac1ce-debb-4676-998c-5665d0812a3b")
 		)
 		(pad "33" thru_hole circle
 			(at 40.64 0 180)
@@ -8618,7 +8618,7 @@
 			(net 16 "unconnected-(J1-Pad33)")
 			(pinfunction "33")
 			(pintype "passive+no_connect")
-			(uuid "263f5ef6-c7c9-48bb-a271-56f4b4784573")
+			(uuid "50754eed-95c1-4dd0-9760-1ccda55d9921")
 		)
 		(pad "34" thru_hole circle
 			(at 41.91 2.54 180)
@@ -8629,7 +8629,7 @@
 			(net 59 "DQ9")
 			(pinfunction "34")
 			(pintype "passive")
-			(uuid "dc6d3e8e-81c8-4508-bd68-14f914d001d3")
+			(uuid "b9d38e93-1422-4ac5-9318-61f5cb587580")
 		)
 		(pad "35" thru_hole circle
 			(at 43.18 0 180)
@@ -8640,7 +8640,7 @@
 			(net 17 "unconnected-(J1-Pad35)")
 			(pinfunction "35")
 			(pintype "passive+no_connect")
-			(uuid "bca242cf-4c14-4084-b750-c1f97a8e6620")
+			(uuid "6c8c6e79-c5dd-4353-99bb-01abae1ed17f")
 		)
 		(pad "36" thru_hole circle
 			(at 44.45 2.54 180)
@@ -8651,7 +8651,7 @@
 			(net 71 "DQ8")
 			(pinfunction "36")
 			(pintype "passive")
-			(uuid "ab487e2f-a3ea-4ac8-83f7-56aea083bf5b")
+			(uuid "049e452e-1577-433b-8b91-f44ccf6188b4")
 		)
 		(pad "37" thru_hole circle
 			(at 50.8 0 180)
@@ -8662,7 +8662,7 @@
 			(net 18 "unconnected-(J1-Pad37)")
 			(pinfunction "37")
 			(pintype "passive+no_connect")
-			(uuid "a6cf4d11-1154-4d5a-baec-cdfacb785a3f")
+			(uuid "e9640d26-8614-4208-8a32-765a1f7e6e98")
 		)
 		(pad "38" thru_hole circle
 			(at 52.07 2.54 180)
@@ -8673,7 +8673,7 @@
 			(net 19 "unconnected-(J1-Pad38)")
 			(pinfunction "38")
 			(pintype "passive+no_connect")
-			(uuid "4b578691-8eef-4a60-9869-a62b55ae7e24")
+			(uuid "149e322f-9bae-4da3-afbb-f06d6f1e72c0")
 		)
 		(pad "39" thru_hole circle
 			(at 53.34 0 180)
@@ -8684,7 +8684,7 @@
 			(net 32 "A20")
 			(pinfunction "39")
 			(pintype "passive")
-			(uuid "8cb7e716-8e1b-4c4f-8b9f-f91a3e33c7b0")
+			(uuid "3b7ca204-3908-4c1b-a256-5096efa1ecc8")
 		)
 		(pad "40" thru_hole circle
 			(at 54.61 2.54 180)
@@ -8695,7 +8695,7 @@
 			(net 27 "A19")
 			(pinfunction "40")
 			(pintype "passive")
-			(uuid "4c3eb33a-ce06-4c82-b732-e87588c70a41")
+			(uuid "ffcd9049-14e2-42e3-ab34-331dbebd7161")
 		)
 		(pad "41" thru_hole circle
 			(at 55.88 0 180)
@@ -8706,7 +8706,7 @@
 			(net 29 "A18")
 			(pinfunction "41")
 			(pintype "passive")
-			(uuid "96b6db18-4a99-4e5a-890a-5f354dc10236")
+			(uuid "f2265ebb-e34a-43de-a5ee-e613df2f0b27")
 		)
 		(pad "42" thru_hole circle
 			(at 57.15 2.54 180)
@@ -8717,7 +8717,7 @@
 			(net 36 "A17")
 			(pinfunction "42")
 			(pintype "passive")
-			(uuid "dbf89347-e74c-423d-8611-710724382526")
+			(uuid "29fc85b7-3e30-47c1-8ced-556f0612fea6")
 		)
 		(pad "43" thru_hole circle
 			(at 58.42 0 180)
@@ -8728,7 +8728,7 @@
 			(net 42 "A16")
 			(pinfunction "43")
 			(pintype "passive")
-			(uuid "01a81191-5b0c-44a7-8665-9ff6140ba22f")
+			(uuid "e0aa532f-2ca7-4047-9163-ad26d6e07278")
 		)
 		(pad "44" thru_hole circle
 			(at 59.69 2.54 180)
@@ -8739,7 +8739,7 @@
 			(net 40 "A15")
 			(pinfunction "44")
 			(pintype "passive")
-			(uuid "2e1c791f-88ac-4beb-8fed-cf83201b0dc4")
+			(uuid "0c458341-8af4-4a2b-a2b5-5ce29c9a78cf")
 		)
 		(pad "45" thru_hole circle
 			(at 60.96 0 180)
@@ -8750,7 +8750,7 @@
 			(net 47 "A14")
 			(pinfunction "45")
 			(pintype "passive")
-			(uuid "8a24d1a2-2dbe-4e9b-b9ac-86bb6f28a0c2")
+			(uuid "05a0930b-58e4-4024-97e5-71b3377d19f5")
 		)
 		(pad "46" thru_hole circle
 			(at 62.23 2.54 180)
@@ -8761,7 +8761,7 @@
 			(net 28 "A13")
 			(pinfunction "46")
 			(pintype "passive")
-			(uuid "f3af027c-932e-488d-9c27-3e74bac3b807")
+			(uuid "c4dce8ab-992a-4cad-a478-e2c5b17f8f22")
 		)
 		(pad "47" thru_hole circle
 			(at 63.5 0 180)
@@ -8772,7 +8772,7 @@
 			(net 37 "A12")
 			(pinfunction "47")
 			(pintype "passive")
-			(uuid "980e8f47-a9f6-42b6-8dc8-8d1b0b9e38f4")
+			(uuid "59efdf9e-7466-4239-9d50-361ab5509341")
 		)
 		(pad "48" thru_hole circle
 			(at 64.77 2.54 180)
@@ -8783,7 +8783,7 @@
 			(net 34 "A11")
 			(pinfunction "48")
 			(pintype "passive")
-			(uuid "7b0f2ba7-a36e-423c-8770-1b08dc2960bf")
+			(uuid "2bec11d4-e100-4286-a974-6f764fc59fa8")
 		)
 		(pad "49" thru_hole circle
 			(at 66.04 0 180)
@@ -8794,7 +8794,7 @@
 			(net 6 "GND")
 			(pinfunction "49")
 			(pintype "passive")
-			(uuid "25db66ca-eb62-4dfe-992e-d5ef885ecb1d")
+			(uuid "e2104cee-d822-41b1-b95f-ff0ba4effbff")
 		)
 		(pad "50" thru_hole circle
 			(at 67.31 2.54 180)
@@ -8805,7 +8805,7 @@
 			(net 31 "A10")
 			(pinfunction "50")
 			(pintype "passive")
-			(uuid "0f81f49d-e831-48e2-ad63-28bcb4891f02")
+			(uuid "f113819e-aeca-43c1-b7d6-84ccda0cc723")
 		)
 		(pad "51" thru_hole circle
 			(at 68.58 0 180)
@@ -8816,7 +8816,7 @@
 			(net 44 "A9")
 			(pinfunction "51")
 			(pintype "passive")
-			(uuid "c607b155-e46d-4a06-97de-7e706e9934ad")
+			(uuid "28401705-5ebc-43cb-bcec-5028b7dc3919")
 		)
 		(pad "52" thru_hole circle
 			(at 69.85 2.54 180)
@@ -8827,7 +8827,7 @@
 			(net 43 "A8")
 			(pinfunction "52")
 			(pintype "passive")
-			(uuid "46b05b35-84b1-4940-8220-794a2f3102c2")
+			(uuid "adfc187a-eb1c-48db-adb5-bbdf24e062ec")
 		)
 		(pad "53" thru_hole circle
 			(at 71.12 0 180)
@@ -8838,7 +8838,7 @@
 			(net 38 "A7")
 			(pinfunction "53")
 			(pintype "passive")
-			(uuid "022c9ae9-7ea7-4fda-bef2-1c5108b0418e")
+			(uuid "bcef7473-daef-4cd2-bb95-ddbef53f9350")
 		)
 		(pad "54" thru_hole circle
 			(at 72.39 2.54 180)
@@ -8849,7 +8849,7 @@
 			(net 30 "A6")
 			(pinfunction "54")
 			(pintype "passive")
-			(uuid "7e1b9f8f-bd07-4733-91f7-468518c5480d")
+			(uuid "796dc4ab-aae7-4565-a973-f6a7fc24580b")
 		)
 		(pad "55" thru_hole circle
 			(at 73.66 0 180)
@@ -8860,7 +8860,7 @@
 			(net 39 "A5")
 			(pinfunction "55")
 			(pintype "passive")
-			(uuid "e202996e-45b6-4bcd-acd6-5b0b3c3ba525")
+			(uuid "ce421004-b74d-4829-8f84-6be8241faca8")
 		)
 		(pad "56" thru_hole circle
 			(at 74.93 2.54 180)
@@ -8871,7 +8871,7 @@
 			(net 48 "A4")
 			(pinfunction "56")
 			(pintype "passive")
-			(uuid "3936890f-7afa-4e4a-a049-fc0222a00ffd")
+			(uuid "3d9cbf2d-bb5b-49c1-bf38-1e8f381ea4e1")
 		)
 		(pad "57" thru_hole circle
 			(at 76.2 0 180)
@@ -8882,7 +8882,7 @@
 			(net 33 "A3")
 			(pinfunction "57")
 			(pintype "passive")
-			(uuid "918aee7a-23f1-4d79-a229-6b675e3ecea9")
+			(uuid "8ed49233-ac18-462e-883f-546e263e7456")
 		)
 		(pad "58" thru_hole circle
 			(at 77.47 2.54 180)
@@ -8893,7 +8893,7 @@
 			(net 45 "A2")
 			(pinfunction "58")
 			(pintype "passive")
-			(uuid "7bb62017-de97-4ede-9490-79f8c5959f95")
+			(uuid "449dce07-3eca-46bb-b951-a29ef103ab9f")
 		)
 		(pad "59" thru_hole circle
 			(at 78.74 0 180)
@@ -8904,7 +8904,7 @@
 			(net 35 "A1")
 			(pinfunction "59")
 			(pintype "passive")
-			(uuid "10fe18fe-82dd-4c0a-aec9-77b35beef040")
+			(uuid "58024cb0-fae8-4265-aa7c-b86f826e0403")
 		)
 		(pad "60" thru_hole circle
 			(at 80.01 2.54 180)
@@ -8915,7 +8915,7 @@
 			(net 49 "A0")
 			(pinfunction "60")
 			(pintype "passive")
-			(uuid "4f601da1-e176-414a-a39d-1079f823c1cc")
+			(uuid "bba0643f-b82e-4c5c-bf52-315e5e0cca9a")
 		)
 		(pad "61" thru_hole circle
 			(at 81.28 0 180)
@@ -8926,7 +8926,7 @@
 			(net 6 "GND")
 			(pinfunction "61")
 			(pintype "passive")
-			(uuid "95ad9bbf-0ed1-4db2-9e28-3353a5b8177b")
+			(uuid "e2c72007-9aab-49f6-9920-c62431d5d09d")
 		)
 		(pad "62" thru_hole circle
 			(at 82.55 2.54 180)
@@ -8937,7 +8937,7 @@
 			(net 148 "RST")
 			(pinfunction "62")
 			(pintype "passive")
-			(uuid "74ff15f4-4280-4736-9168-d44f596aac08")
+			(uuid "2fa83354-f9ed-4eac-b171-ace9ae9cd6eb")
 		)
 		(pad "63" thru_hole circle
 			(at 83.82 0 180)
@@ -8948,7 +8948,7 @@
 			(net 6 "GND")
 			(pinfunction "63")
 			(pintype "passive")
-			(uuid "5061ac63-7f61-4ab9-a359-80ee4fa807b8")
+			(uuid "eab6ea40-e93f-4d59-994c-0537cc268b11")
 		)
 		(pad "64" thru_hole circle
 			(at 85.09 2.54 180)
@@ -8959,7 +8959,7 @@
 			(net 143 "/CEA")
 			(pinfunction "64")
 			(pintype "passive")
-			(uuid "f4faba62-6aff-4847-bd1f-299582d54b30")
+			(uuid "e6bd6cb2-7677-4f4a-92e6-de498d22808c")
 		)
 		(pad "65" thru_hole circle
 			(at 86.36 0 180)
@@ -8970,7 +8970,7 @@
 			(net 144 "/CEB")
 			(pinfunction "65")
 			(pintype "passive")
-			(uuid "7bc4e3b4-6710-4988-a7e6-738dda222d09")
+			(uuid "a4d598d4-0957-4f5d-909c-bf862be2ce67")
 		)
 		(pad "66" thru_hole circle
 			(at 87.63 2.54 180)
@@ -8981,7 +8981,7 @@
 			(net 145 "/CEC")
 			(pinfunction "66")
 			(pintype "passive")
-			(uuid "17824830-54cc-464b-88c8-8fa4a31974a7")
+			(uuid "4b772c3c-6631-4ff5-a928-8581fc1f466f")
 		)
 		(pad "67" thru_hole circle
 			(at 88.9 0 180)
@@ -8992,7 +8992,7 @@
 			(net 146 "/CED")
 			(pinfunction "67")
 			(pintype "passive")
-			(uuid "a5ab023b-0fab-4678-9039-33748bcbb427")
+			(uuid "cb0fb5b2-801e-4597-a740-15b841e9393c")
 		)
 		(pad "68" thru_hole circle
 			(at 90.17 2.54 180)
@@ -9003,7 +9003,7 @@
 			(net 6 "GND")
 			(pinfunction "68")
 			(pintype "passive")
-			(uuid "d18ddd74-c96e-4058-9fda-1e0cd4f80c68")
+			(uuid "01623a52-a75a-431f-ad31-4d188ffbf44b")
 		)
 		(pad "69" thru_hole circle
 			(at 91.44 0 180)
@@ -9014,7 +9014,7 @@
 			(net 46 "WE")
 			(pinfunction "69")
 			(pintype "passive")
-			(uuid "f8b58b73-b575-47c6-a51e-aad0cf9b3640")
+			(uuid "3712f840-05ab-4d79-ba96-70793af94d4a")
 		)
 		(pad "70" thru_hole circle
 			(at 92.71 2.54 180)
@@ -9025,7 +9025,7 @@
 			(net 20 "unconnected-(J1-Pad70)")
 			(pinfunction "70")
 			(pintype "passive+no_connect")
-			(uuid "bbe1faab-401d-4fc2-86a5-72e69c964f0f")
+			(uuid "63cedfe8-2eb3-4652-becc-b52234439716")
 		)
 		(pad "71" thru_hole circle
 			(at 93.98 0 180)
@@ -9036,7 +9036,7 @@
 			(net 41 "OE")
 			(pinfunction "71")
 			(pintype "passive")
-			(uuid "e64e0069-438a-402a-93d6-70be458115e7")
+			(uuid "7c3ac5c4-f16d-423c-8825-70cfdb061852")
 		)
 		(pad "72" thru_hole circle
 			(at 95.25 2.54 180)
@@ -9047,17 +9047,17 @@
 			(net 21 "unconnected-(J1-Pad72)")
 			(pinfunction "72")
 			(pintype "passive+no_connect")
-			(uuid "ddfc8ab0-fbb9-4d91-b4fb-8c9c9a81c077")
+			(uuid "0d2609f7-cf83-43ab-ad8d-75173eacd04e")
 		)
 		(model "${KIPRJMOD}/../5822030-3/3D/5822030-3.stp"
 			(offset
-				(xyz 47.61999822 -0.6799999969 4.849999832)
+				(xyz 47.619998 -0.68 4.85)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -90 0 180)
 			)
 		)
 	)
@@ -16724,6 +16724,17 @@
 			)
 		)
 	)
+	(gr_text "72"
+		(at 102.37 120.7631 0)
+		(layer "F.SilkS")
+		(uuid "41e4e738-1378-42f2-8487-8d0e130d79b0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
 	(gr_text "0"
 		(at 171.14 85.205 0)
 		(layer "F.SilkS")
@@ -18084,6 +18095,17 @@
 			)
 		)
 	)
+	(gr_text "72"
+		(at 102.37 139.783101 0)
+		(layer "F.SilkS")
+		(uuid "c84387e9-27a1-40e6-831a-81a35ef9b3f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
 	(gr_text "5"
 		(at 125.42 100.445 0)
 		(layer "F.SilkS")
@@ -18132,6 +18154,28 @@
 		(at 174.9 96.7 0)
 		(layer "F.SilkS")
 		(uuid "d2cb3792-bf69-4281-8943-47f6d25abe4e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "1"
+		(at 197.62 139.783101 0)
+		(layer "F.SilkS")
+		(uuid "d68b5dbd-80cf-45ce-b2a7-fee923a26253")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "1"
+		(at 197.62 120.7631 0)
+		(layer "F.SilkS")
+		(uuid "dc7af52f-6f21-4b27-a4be-ce1eda3be21a")
 		(effects
 			(font
 				(size 1 1)
